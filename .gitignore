@@ -1,1 +1,13 @@
+data
+cropped_videos
+final_output.mp4
 
+#FaceCrop
+FaceCrop/yoloface
+
+#LipRedading
+LipReading/Visual_Speech_Recognition_for_Multiple_Languages
+LipReading/language_models/model.pth
+LipReading/language_models/model.json
+LipReading/models/model.pth
+LipReading/models/model.json
